@@ -41,6 +41,3 @@ This tool was built for developers who have **lots of small utility scripts** sc
 - Uses the OS-native method to open folders or launch files.
 
 ---
-
-## 📁 Directory Structure
-
